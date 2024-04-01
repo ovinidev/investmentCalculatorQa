@@ -13,10 +13,8 @@ Tecnologias utilizada no projeto:
 
 - Clone o repositório
 - Instale as dependências com `pnpm install`
-
-Agora você pode acessar [`localhost:5173`](http://localhost:5173) do seu
-navegador.
-
+- Adicione a extensão do Playwright: https://marketplace.visualstudio.com/items?itemName=ms-playwright.playwright
+- Rode a aplicação principal com `pnpm dev`
 - Rode os testes com `pnpm test`
 
 <sub>Made with 💜 by <a href="https://github.com/ovinidev">Vinícius Medeiros</a></sub>
